@@ -19,7 +19,7 @@ router.post('/view', function(req, res, next) {
     .call({from:accountAddress})
     .then((result) => {
         console.log(result);
-        res.render('viewCertificate', {data : result});
+        res.render('viewCertificate', {data : result, certificateID : data.certificateID});
     })
 });
 
