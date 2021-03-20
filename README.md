@@ -20,7 +20,7 @@ Before we start we need some tools and dependencies. Please install the followin
 
 
 ## Edit app.js
-Provide Ethereum address from which transaction cost can be deducted (Line No.: 16, Veriable Name: accountAddress)
+Provide Ethereum address from which transaction cost can be deducted, in `app.js (Line No.: 16, Veriable Name: accountAddress)`
 
 
 ## Installation
