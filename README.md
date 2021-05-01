@@ -1,4 +1,4 @@
-# Student Management System
+# Certificater
 
 Most of the steps are only reuired when runninig for the first time, please keep that in mind.
 
